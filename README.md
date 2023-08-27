@@ -1,4 +1,4 @@
-# Music-Genre-Classification
+# Music-Genre-Classification using KNN
 We have used K-nearest neighbors algorithm because in various researches it has shown the best results for this problem. K-Nearest Neighbors is a popular machine learning algorithm for regression and classification. It makes predictions on data points based on their similarity measures i.e distance between them.
 
 The first step for music genre classification project would be to extract features and components from the audio files. It includes identifying the linguistic content and discarding noise.
